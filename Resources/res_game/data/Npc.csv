@@ -1,0 +1,6 @@
+id,name,type,csb_name,an_name,desc
+1,蛇头,101,npc_3.csb,null,null
+2,蛇身,102,npc_6.csb,null,null
+3,食物,201,npc_4.csb,null,null
+4,路障,202,npc_2.csb,null,null
+5,传送点,300,npc_1.csb,null,null

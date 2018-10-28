@@ -1,0 +1,1 @@
+/* *  BaseTypeDefine.h *  CCGame * *  Created by linux_wuliqiang@163.com on 2015-03-30. *  Copyright 2015 Beijing. All rights reserved. * *	定义游戏中的基本数据类型 */#ifndef __BaseTypeDefine_h__#define __BaseTypeDefine_h__typedef Vec2 BasePoint;typedef cocos2d::Size BaseSize;typedef cocos2d::Rect BaseRect;#endif // __BaseTypeDefine_h__

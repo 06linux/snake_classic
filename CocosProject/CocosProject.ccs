@@ -1,0 +1,51 @@
+<Solution>
+  <PropertyGroup Name="CocosProject" Version="2.2.1.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="main_menu.csd" Type="Node" />
+        <Project Name="npc_1.csd" Type="Node" />
+        <Image Name="npc_1.png" />
+        <Image Name="npc_2.png" />
+        <Image Name="npc_3.png" />
+        <Image Name="npc_4.png" />
+        <Image Name="npc_5.png" />
+        <Image Name="npc_6.png" />
+        <Project Name="npc_2.csd" Type="Node" />
+        <Project Name="npc_3.csd" Type="Node" />
+        <Project Name="npc_4.csd" Type="Node" />
+        <Project Name="npc_5.csd" Type="Node" />
+        <Project Name="npc_6.csd" Type="Node" />
+        <Image Name="ui_bg.png" />
+        <Image Name="ui_btn_bg_1.png" />
+        <Image Name="ui_btn_bg_2.png" />
+        <Image Name="ui_play_cankao.png" />
+        <Image Name="ui_play_menu_bg.png" />
+        <Image Name="ui_play_menu_bg_1.png" />
+        <Image Name="ui_play_menu_bg_2.png" />
+        <Image Name="ui_play_menu_bg_3.png" />
+        <Project Name="ui_btn_challenge_mode.csd" Type="Node" />
+        <Project Name="ui_btn_music_set.csd" Type="Node" />
+        <Project Name="ui_btn_classic_mode.csd" Type="Node" />
+        <Project Name="ui_btn_continue.csd" Type="Node" />
+        <Project Name="ui_btn_pingjia.csd" Type="Node" />
+        <Project Name="ui_btn_quit.csd" Type="Node" />
+        <Project Name="ui_btn_restart.csd" Type="Node" />
+        <Project Name="ui_pause_menu.csd" Type="Node" />
+        <Project Name="ui_btn_more_game.csd" Type="Node" />
+        <Project Name="ui_play_menu.csd" Type="Node" />
+        <Project Name="ui_btn_play_menu.csd" Type="Node" />
+        <Image Name="ui_play_menu_bg_4.png" />
+        <Project Name="ui_btn_play_music_set.csd" Type="Node" />
+        <Project Name="ui_jiesuan_menu.csd" Type="Node" />
+        <Project Name="level_select.csd" Type="Node" />
+        <Project Name="level_select_item.csd" Type="Node" />
+        <Project Name="ui_btn_back.csd" Type="Node" />
+        <Project Name="ui_btn_help.csd" Type="Node" />
+        <Project Name="help_menu.csd" Type="Node" />
+        <Project Name="level_select_ip5.csd" Type="Node" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

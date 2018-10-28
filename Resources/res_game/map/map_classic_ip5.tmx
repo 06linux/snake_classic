@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="25" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="map_bg" tilewidth="32" tileheight="32">
+  <image source="map_bg.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="17" name="map_tag" tilewidth="32" tileheight="32">
+  <image source="map_tag.png" width="256" height="256"/>
+ </tileset>
+ <layer name="map_bg" width="20" height="25">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBzFo3gUj+JRPIpH8ZDGAK1BAfU=
+  </data>
+ </layer>
+ <layer name="map_tag" width="20" height="25">
+  <data encoding="base64" compression="zlib">
+   eJwTZGBgEKQyFqcSHjVv1LxR80aOeQxUNk9ikLtvsJs32NPLcDGPmhgAGN0qjg==
+  </data>
+ </layer>
+</map>
