@@ -1,4 +1,5 @@
-# 项目书面
+# ReadMe
+
 
 ## 游戏简介
 
@@ -16,7 +17,7 @@
 
 
 
-### 游戏地址
+### 下载游戏（AppStore）
 
 [贪吃蛇-经典掌机消除游戏](https://itunes.apple.com/cn/app/%E8%B4%AA%E5%90%83%E8%9B%87-%E7%BB%8F%E5%85%B8%E6%8E%8C%E6%9C%BA%E6%B6%88%E9%99%A4%E5%B0%8F%E6%B8%B8%E6%88%8F/id1109383962?mt=8)
 
@@ -37,3 +38,11 @@
 ### 源码地址
 
 [https://github.com/06linux/snake_classic](https://github.com/06linux/snake_classic)
+
+
+### 捐赠本站
+
+你的支持使我们坚持的动力。 
+[捐赠地址>>>](https://openbook.wiki/about/#%E6%8D%90%E8%B5%A0%E6%9C%AC%E7%AB%99)
+
+
